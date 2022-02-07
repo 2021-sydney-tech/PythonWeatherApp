@@ -1,5 +1,5 @@
 <h1>Building Python Weather App</h1>
-<h3> https://sly-tech-sydney.github.io/PythonWeatherApp/ </h3>
+
 <h3>We will use Weather API: https://openweathermap.org/api </h3>
 <h3>Then we need to subscribe "Current Weather Data" to get the API key.</h3>
 <h5> Step 1: </h5>
