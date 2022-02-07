@@ -1,0 +1,87 @@
+{
+    "coord": {
+        "lon": 151.2073,
+        "lat": -33.8679
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 67.96,
+        "feels_like": 67.89,
+        "temp_min": 65.07,
+        "temp_max": 70.32,
+        "pressure": 1017,
+        "humidity": 73
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3,
+        "deg": 175,
+        "gust": 7
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1644225930,
+    "sys": {
+        "type": 2,
+        "id": 2018875,
+        "country": "AU",
+        "sunrise": 1644175338,
+        "sunset": 1644224178
+    },
+    "timezone": 39600,
+    "id": 2147714,
+    "name": "Sydney",
+    "cod": 200
+    {
+        "coord": {
+            "lon": 151.2073,
+            "lat": -33.8679
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 67.96,
+            "feels_like": 67.89,
+            "temp_min": 65.07,
+            "temp_max": 70.32,
+            "pressure": 1017,
+            "humidity": 73
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3,
+            "deg": 175,
+            "gust": 7
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1644225930,
+        "sys": {
+            "type": 2,
+            "id": 2018875,
+            "country": "AU",
+            "sunrise": 1644175338,
+            "sunset": 1644224178
+        },
+        "timezone": 39600,
+        "id": 2147714,
+        "name": "Sydney",
+        "cod": 200
+    }
