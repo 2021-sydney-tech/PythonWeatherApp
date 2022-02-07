@@ -26,6 +26,8 @@ while True:
         temp_ma = round(weather_data.json()['main']['temp_max'])
         humidity = round(weather_data.json()['main']['humidity'])
         wind = weather_data.json()['wind']['speed']
+        
+        # Still working on the date time conversion
         #sunrise = time.strftime('%I:%M:%S', time.gmtime(weather_data.json()['sys']['sunrise'] + 39600))
         #sunset = time.strftime('%I:%M:%S', time.gmtime(weather_data.json()['sys']['sunset'] + 39600))
         #date_time = datetime.now().strftime("%d %b %Y | %I:%M:%S")
