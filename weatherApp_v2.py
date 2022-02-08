@@ -46,7 +46,7 @@ def search():
 
 app = Tk()
 app.title("Weather App")
-app.geometry('500x430')
+app.geometry('400x430')
 app.config(bg="#88c1ef")
 h1 = ("Arial", 20, "bold")
 h2 = ("Arial", 18, "bold")
